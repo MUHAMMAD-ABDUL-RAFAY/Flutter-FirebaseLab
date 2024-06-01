@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790402394510",
+    "project_id": "fir-flutter-codelab-4a20a",
+    "storage_bucket": "fir-flutter-codelab-4a20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790402394510:android:bbef21dd4df7d8c8af1cdf",
+        "android_client_info": {
+          "package_name": "com.example.rsvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtM5w1xlZNkzeuQWj_dBB7AuKaJWM_Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
